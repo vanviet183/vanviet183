@@ -20,5 +20,4 @@ Let's follow me
 ---
 <img align="" alt="Nguyen Van Viet's Github" src="https://github-readme-stats.vercel.app/api?username=vanviet183&show_icons=true&hide_border=true" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanviet183&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanviet183&langs_count=8)](https://github.com/vanviet183/github-readme-stats)
