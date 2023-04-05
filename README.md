@@ -2,7 +2,7 @@
 <br>
 ![](https://komarev.com/ghpvc/?username=vanviet183&color=green)
 
-<img align="right" alt="GIF" src="https://media.tenor.com/XZGm-kKjguMAAAAC/kawaii-bunny.gif" width="400" height="256" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/1a/26/e5/1a26e51bfd0aa963e0a48618175a9836.gif" width="400" height="256" />
 
 ### Hi guys, It's Viet again 👋
 
